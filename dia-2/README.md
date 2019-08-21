@@ -7,3 +7,5 @@ Atividade 1: [crie-seu-proprio-functor](./crie-seu-proprio-functor)
 Atividade 2: [lista-infinita](./lista-infinita)
 
 Atividade 3: [functor-contravariante](./functor-contravariante)
+
+Atividade 4: [functor-representavel](./functor-representavel)
