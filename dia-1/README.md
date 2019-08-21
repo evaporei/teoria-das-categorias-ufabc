@@ -7,3 +7,5 @@ Atividade 1: [either-em-outras-linguagens](./either-em-outras-linguagens)
 Atividade 2: [funcional-vs-oop](./funcional-vs-oop)
 
 Atividade 3: [monoid](./monoid)
+
+Atividade 4: [writer](./writer)
